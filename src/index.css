@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.react-tabs {
+    font-size: 14px;
+  }
+  
+  .react-tabs__tab {
+    padding: 8px 12px;
+  }
+  
+  .react-tabs__tab-list {
+    margin-bottom: 10px;
+  }
+  
+  .react-tabs__tab--selected {
+    background-color: #f0f0f0;
+  }
+  
